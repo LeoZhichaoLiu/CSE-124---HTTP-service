@@ -1,0 +1,10 @@
+[
+	{
+		"hostname": "server1.cse124z5liu.cloudns.ph",
+		"docroot": "./sample_htdocs"
+	},
+	{
+		"hostname": "server2.cse124z5liu.cloudns.ph",
+		"docroot": "./sample_htdocs_2"
+	}
+]
